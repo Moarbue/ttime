@@ -1,6 +1,8 @@
 # ttime (Terminal Time)
 This is a simple clock inside the terminal using ANSI Escape Sequences.
 
+![Code_xPDDsMJE4T](https://github.com/Moarbue/ttime/assets/83272310/befe32a0-857a-42f5-a77d-17c3615e6487)
+
 ## Getting Started
 To build the program simply invoke
 ```sh
